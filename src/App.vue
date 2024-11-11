@@ -1,7 +1,5 @@
 <script setup lang="ts">
-import { ref } from 'vue';
 import Header from "./components/Header.vue";
-import Container from "./components/Container.vue";
 import Background_Carousel from "./components/Background_Carousel.vue";
 </script>
 
